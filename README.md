@@ -1,170 +1,24 @@
-<pre align="center">
-++++++===========-----------------::::----------------======
-+++++++========-----------==+++*#***==-:----------------====
-++++=========----------=*%%@%%@@@@@@@@*=-::--------------===
-++++=======----------+#%@@@%@@@@%%@@@@@@#=::::------------==
-+++========--------*%@@@@@@@@@%@@@@@@@@@@#-:::::-----------=
-++========--------#@@@@@@%%@@%%%%%%@@@@@@@+::::::-----------
-+========--------*@@@#**+++++*****###%%@@@%-::::::::--------
-+========-------=@@@*++==---:------===+*%@@-:::::::::-------
-========--------+@@#+++==---::::----===+*%@=:::::::::-------
-======---------:+@%*++==----:::::---===++%@+::::::::::------
-=====----------:+@%*++===--::::::--===+++%@+:::::::::::-----
-=====---------::=@#########+=--=*#######*#@-::::::::::::----
-====----------::-%##########+--*########*##:::::::::::::----
-=====---------::=##+*#***++++--++++***#++**=:::::::::::::---
-=====--------:::-**====----==--==----=-==*+-::::::::::::----
-======--------::-+*==--::-===--==-:-----=*+:::::::::::::----
-=======-------:::+#+=-----=++--+=------=+#+:::::::::::::----
-======---------::=#*+=====+#####*===--==*#=:::::::::::::----
-=======--------:::*%*+=*##*****#####==+*%+:::::::::::::-----
-========--------::-###++++*+++++++++=*#%#:::::::::::::------
-+========--------::=%%#**==+***+==+**#%*-:::::::::::::------
-+========-------::+=*%@%%*+======+*%%@*::::::::::::::-------
-++========-------#%--+#%@%##**+*##%@%*-::::::::::::::-------
-++++=======---=*%@%=:-=+*%%%%%%%%%%*++-:::::::::::----------
-++++========*#%@@%@#:::==+*#####***++*-++=-:::::-----------=
-++++===+*#%%@@%%%%%%+::::==++++++++++#-=@@%#+=--:----------=
-++++*#%%@@@@@%%%%%%%%-::..:=====++++**=:#@@@%%%#*==-------==
-*#%%@@@@@@@%@%%%%%%%%#:::...:-=====+++-.+@@@@%%%%%%#*+==--==
-@@@@@@@@@%%%%@%%%%%%%%*:::...::-======:==%%@@%%%%%%%%%%%#+==
-@@@@@%%%%%%%%%%%%%%%%%%=.:::-::::-==--===%%%%%%%%%%%%%%%@%+=
-@@%%%%%%%%%%%%%%%%%%%%%#-:--::::::----:-+%%%%%%%%%%%%%%%%@%=
-@%%%%%%%%%%%%%%%%%%%%%%%*-:..:...:-:::::+%%%%%%%%%%%%%%%%@@*
-%%%%%%%%%%%%%%%%%%%%%%%%%=:.......::::::-#%%%%%%%%%%%%%%@@@%</pre>
+# 💫 About Me:
+<br><br>🔭 I’m currently working on **AI-powered developer tools, full-stack web apps & automation projects**<br><br>👯 I’m looking to collaborate on **Open Source projects, AI applications & Web Development projects**<br><br>🤝 I’m looking for help with **System Design, Cloud Deployment & Advanced AI Integration**<br><br>🌱 I’m currently learning **Generative AI, Cybersecurity, Cloud Computing & Data Structures**<br><br>💬 Ask me about **React, Node.js, Java, Python, AI APIs, Linux & Web Development**<br><br>⚡ Fun fact: **I love building projects more than just watching tutorials 🚀**
 
-<h1 align="center">Hi 👋, I'm Sunny Mishra</h1>
 
-<p align="center">
-  <em>B.Tech CSE student passionate about Full-Stack Development, AI-powered applications, and Cybersecurity.</em>
-</p>
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/devsunny.bsky.social) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/sunnymishra) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pcboy7390) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nxt_sunny_28/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sunny-mishra-685129337/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@sunnymishra.atf) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/SUNNY-MISHRA-553) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/sunnymishr89356) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@its-devsunny) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/SUNNY-MISHRA-the-solid) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@https://mastodon.social/@devsunny) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunnymishrac8a@gmail.com) 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20%7C%20Cybersecurity-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Currently-Learning%20%26%20Building-success?style=flat-square" />
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sunnymishraatf-lgtm&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sunnymishraatf-lgtm&theme=holi&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sunnymishraatf-lgtm&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sunnymishraatf-lgtm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=sunnymishraatf-lgtm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👨‍💻 About Me
-
-- 🎓 B.Tech Computer Science Engineering student at **Siksha 'O' Anusandhan (SOA) University, Bhubaneswar**
-- 💻 Building full-stack web applications and AI-integrated developer tools
-- 🤖 Exploring Generative AI, LLM APIs, and AI automation
-- 🔐 Learning Cybersecurity, Linux, and ethical hacking concepts
-- ⚡ Interested in creating useful tools that solve real-world problems
-- 🛠️ Currently working with React, Node.js, Python, Java, and cloud deployment
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🤖 **CodeAI** | AI-powered coding assistant that generates code using LLM APIs with language detection and developer-friendly output |
-| 💻 **Smart Code Hub** | Online coding platform with editor, AI assistance, file sharing, and collaboration features |
-| 📂 **DropVault** | Secure file-sharing platform with modern transfer features and AI-based file management ideas |
-| 🔗 **CodeShare** | Code generation and sharing platform using AI APIs |
-| 🛡️ **SENTINEL AI** | Cybersecurity-themed landing page with modern UI and 3D visual experience |
-| 📱 **Flask Smart File Server** | Local network file-sharing server for Android and PC using Python Flask |
-| 🔐 **P2P File Transfer** | Serverless peer-to-peer file sharing concept with encrypted data transfer |
-
----
-
-# 🧰 Tech Stack
-
-## Languages
-
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/C-language-lightgrey?style=flat-square)
-![VHDL](https://img.shields.io/badge/VHDL-Hardware-blue?style=flat-square)
-
----
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
-
----
-
-## Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-red?style=flat-square&logo=redis)
-
----
-
-## AI & Tools
-
-![Groq API](https://img.shields.io/badge/Groq_API-AI-orange?style=flat-square)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-LLM-purple?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/Linux-Kali%20%7C%20Ubuntu-black?style=flat-square&logo=linux)
-
----
-
-# 📚 Currently Exploring
-
-- Generative AI & LLM Applications
-- AI Coding Assistants
-- Cloud Deployment
-- Cybersecurity Fundamentals
-- System Design
-- Data Structures & Algorithms
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-
----
-
-# 🏆 Goals
-
-🚀 Build impactful software projects  
-🤖 Create AI-powered developer tools  
-🔐 Improve cybersecurity skills  
-💡 Contribute to open-source projects  
-
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_GITHUB">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
-
-<p align="center">
-⭐ Building | Learning | Improving Every Day ⭐
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
