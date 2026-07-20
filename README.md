@@ -1,91 +1,166 @@
-# Hi 👋, I'm Sunny Mishra
+<div align="center">
 
-### B.Tech CSE Student | Full-Stack Developer | AI Enthusiast | Cybersecurity Learner
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:4338ca&height=220&section=header&text=Hi%20There,%20I'm%20Sunny%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Security%20Enthusiast&descAlignY=56&descSize=18" width="100%"/>
 
-I'm passionate about building modern web applications, AI-powered tools, and developer-focused projects. I enjoy learning new technologies and solving real-world problems through software.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=650&lines=Building+AI-powered+developer+tools+%F0%9F%A4%96;Full-Stack+Web+Applications+%F0%9F%92%BB;Exploring+Cybersecurity+%26+Cloud+%E2%98%81%EF%B8%8F;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-# 🚀 About Me
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20%7C%20Cybersecurity-4338CA?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-16A34A?style=for-the-badge&labelColor=0f172a" />
 
-🔭 Currently building **AI-powered developer tools & Full-Stack Web Applications**
+</div>
 
-🌱 Learning **Generative AI, Cybersecurity, Cloud Computing & System Design**
+<br/>
 
-👨‍💻 Interested in **React, Node.js, Java, Python, Linux & AI APIs**
+<details>
+<summary><b>📸 ASCII Me — click to reveal</b></summary>
+<br/>
+<pre align="center">
+++++++===========-----------------::::----------------======
++++++++========-----------==+++*#***==-:----------------====
+++++=========----------=*%%@%%@@@@@@@@*=-::--------------===
+++++=======----------+#%@@@%@@@@%%@@@@@@#=::::------------==
++++========--------*%@@@@@@@@@%@@@@@@@@@@#-:::::-----------=
+++========--------#@@@@@@%%@@%%%%%%@@@@@@@+::::::-----------
++========--------*@@@#**+++++*****###%%@@@%-::::::::--------
++========-------=@@@*++==---:------===+*%@@-:::::::::-------
+========--------+@@#+++==---::::----===+*%@=:::::::::-------
+======---------:+@%*++==----:::::---===++%@+::::::::::------
+=====----------:+@%*++===--::::::--===+++%@+:::::::::::-----
+=====---------::=@#########+=--=*#######*#@-::::::::::::----
+====----------::-%##########+--*########*##:::::::::::::----
+=====---------::=##+*#***++++--++++***#++**=:::::::::::::---
+=====--------:::-**====----==--==----=-==*+-::::::::::::----
+======--------::-+*==--::-===--==-:-----=*+:::::::::::::----
+=======-------:::+#+=-----=++--+=------=+#+:::::::::::::----
+======---------::=#*+=====+#####*===--==*#=:::::::::::::----
+=======--------:::*%*+=*##*****#####==+*%+:::::::::::::-----
+========--------::-###++++*+++++++++=*#%#:::::::::::::------
++========--------::=%%#**==+***+==+**#%*-:::::::::::::------
++========-------::+=*%@%%*+======+*%%@*::::::::::::::-------
+++========-------#%--+#%@%##**+*##%@%*-::::::::::::::-------
+++++=======---=*%@%=:-=+*%%%%%%%%%%*++-:::::::::::----------
+++++========*#%@@%@#:::==+*#####***++*-++=-:::::-----------=
+++++===+*#%%@@%%%%%%+::::==++++++++++#-=@@%#+=--:----------=
+++++*#%%@@@@@%%%%%%%%-::..:=====++++**=:#@@@%%%#*==-------==
+*#%%@@@@@@@%@%%%%%%%%#:::...:-=====+++-.+@@@@%%%%%%#*+==--==
+@@@@@@@@@%%%%@%%%%%%%%*:::...::-======:==%%@@%%%%%%%%%%%#+==
+@@@@@%%%%%%%%%%%%%%%%%%=.:::-::::-==--===%%%%%%%%%%%%%%%@%+=
+@@%%%%%%%%%%%%%%%%%%%%%#-:--::::::----:-+%%%%%%%%%%%%%%%%@%=
+@%%%%%%%%%%%%%%%%%%%%%%%*-:..:...:-:::::+%%%%%%%%%%%%%%%%@@*
+%%%%%%%%%%%%%%%%%%%%%%%%%=:.......::::::-#%%%%%%%%%%%%%%@@@%
+</pre>
+</details>
 
-🤝 Looking to collaborate on **Open Source, AI and Full Stack projects**
+<br/>
 
-⚡ Fun Fact: **I love building real projects more than collecting certificates.**
+## 💫 About Me
 
----
+```yaml
+🔭 Currently Working On:  AI-powered developer tools, full-stack web apps & automation
+👯 Looking to Collaborate:  Open Source, AI applications & Web Development projects
+🤝 Looking for Help With:  System Design, Cloud Deployment & Advanced AI Integration
+🌱 Currently Learning:  Generative AI, Cybersecurity, Cloud Computing & DSA
+💬 Ask Me About:  React, Node.js, Java, Python, AI APIs, Linux & Web Dev
+⚡ Fun Fact:  I'd rather build a project than watch another tutorial 🚀
+```
 
-# 🛠 Tech Stack
+<br/>
 
-### Languages
+## 🧰 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<div align="center">
 
-### Frameworks & Tools
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,js,py,html,css&theme=dark" />
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel)
+<br/><br/>
 
----
+**Frontend & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express&theme=dark" />
 
-# 📌 Featured Projects
+<br/><br/>
 
-🚀 **CodeAI** – AI-powered coding assistant
+**Deploy & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=vercel,render,netlify,docker,linux&theme=dark" />
 
-💻 **Smart Code Hub** – Online code editor with AI
+<br/><br/>
 
-📂 **DropVault** – Secure file sharing platform
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
-🔐 **P2P File Sharing Tool**
+</div>
 
-🌐 **Portfolio Website**
+<br/>
 
----
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats
+<div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=sunnymishraatf-lgtm&theme=tokyonight&show_icons=true)
+<img src="https://github-readme-stats.shion.dev/api?username=sunnymishraatf-lgtm&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=false&count_private=false" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sunnymishraatf-lgtm&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" width="42%" />
 
-![](https://streak-stats.demolab.com?user=sunnymishraatf-lgtm&theme=tokyonight)
+<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sunnymishraatf-lgtm&layout=compact&theme=tokyonight)
+<img src="https://streak-stats.demolab.com/?user=sunnymishraatf-lgtm&theme=tokyonight&hide_border=true&border_radius=10" width="70%"/>
 
----
+<br/>
 
-# 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnymishraatf-lgtm&theme=tokyo-night&hide_border=true&area=true&border_radius=10" width="90%"/>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=sunnymishraatf-lgtm&theme=tokyo-night)
+</div>
 
----
+<br/>
 
-# 🌐 Connect With Me
+## 🏆 Trophies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sunny-mishra-685129337)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sunnymishraatf-lgtm&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="95%"/>
+</div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/nxt_sunny_28)
+<br/>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@its-devsunny)
+## 🔝 Top Contributed Repo
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sunnymishrac8a@gmail.com)
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=sunnymishraatf-lgtm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="80%"/>
+</div>
 
----
+<br/>
 
-![](https://komarev.com/ghpvc/?username=sunnymishraatf-lgtm&label=Profile%20Views&color=0e75b6&style=flat)
+## 🌐 Connect With Me
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/devsunny.bsky.social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-mishra-685129337/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sunnymishr89356)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nxt_sunny_28/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@its-devsunny)
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sunnymishra.atf)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/sunnymishra)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SUNNY-MISHRA-the-solid)
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/SUNNY-MISHRA-553)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@devsunny)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pcboy7390)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunnymishrac8a@gmail.com)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,50:312e81,100:0f172a&height=120&section=footer" width="100%"/>
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=sunnymishraatf-lgtm&color=6366f1&style=for-the-badge&label=Profile+Views)](https://visitcount.itsvg.in)
+
+</div>
