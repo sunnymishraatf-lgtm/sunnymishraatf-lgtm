@@ -10,6 +10,7 @@
 
 <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20%7C%20Cybersecurity-4338CA?style=for-the-badge&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-16A34A?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/B.Tech%20CSE-SOA%20University-F59E0B?style=for-the-badge&labelColor=0f172a" />
 
 </div>
 
@@ -49,7 +50,7 @@
 *#%%@@@@@@@%@%%%%%%%%#:::...:-=====+++-.+@@@@%%%%%%#*+==--==
 @@@@@@@@@%%%%@%%%%%%%%*:::...::-======:==%%@@%%%%%%%%%%%#+==
 @@@@@%%%%%%%%%%%%%%%%%%=.:::-::::-==--===%%%%%%%%%%%%%%%@%+=
-@@%%%%%%%%%%%%%%%%%%%%%#-:--::::::----:-+%%%%%%%%%%%%%%%%@%=
+@%%%%%%%%%%%%%%%%%%%%%%%*-:--::::::----:-+%%%%%%%%%%%%%%%%@%=
 @%%%%%%%%%%%%%%%%%%%%%%%*-:..:...:-:::::+%%%%%%%%%%%%%%%%@@*
 %%%%%%%%%%%%%%%%%%%%%%%%%=:.......::::::-#%%%%%%%%%%%%%%@@@%
 </pre>
@@ -60,13 +61,92 @@
 ## 💫 About Me
 
 ```yaml
-🔭 Currently Working On:  AI-powered developer tools, full-stack web apps & automation
-👯 Looking to Collaborate:  Open Source, AI applications & Web Development projects
+🔭 Currently Working On:   AI-powered developer tools, full-stack web apps & automation
+👯 Looking to Collaborate: Open Source, AI applications & Web Development projects
 🤝 Looking for Help With:  System Design, Cloud Deployment & Advanced AI Integration
-🌱 Currently Learning:  Generative AI, Cybersecurity, Cloud Computing & DSA
-💬 Ask Me About:  React, Node.js, Java, Python, AI APIs, Linux & Web Dev
-⚡ Fun Fact:  I'd rather build a project than watch another tutorial 🚀
+🌱 Currently Learning:     Generative AI, Cybersecurity, Cloud Computing & DSA
+💬 Ask Me About:          React, Node.js, Java, Python, AI APIs, Linux & Web Dev
+⚡ Fun Fact:               I'd rather build a project than watch another tutorial 🚀
 ```
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 CodeAI
+Terminal-based AI code generation API built with **Node.js/Express** and the **Groq SDK**. Auto-detects 20+ languages (including VHDL), with in-memory caching, rate limiting, and a post-processing pipeline that cleans up comments and fixes Java class structure — designed to be callable from any terminal, globally.
+
+`Node.js` `Express` `Groq SDK` `CLI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 CodeShare
+A code generation and sharing platform deployed on **Render**, powered by **OpenRouter's** API. Battle-tested through rounds of debugging deprecated model IDs and frontend/backend mismatches.
+
+`Render` `OpenRouter` `Full-Stack`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 DropVault
+A feature-rich file sharing platform using **WebRTC** for peer transfers, with OTP-based sharing and AI-powered file organization. Backed by a full **Docker / PostgreSQL / Redis** stack.
+
+`WebRTC` `Docker` `PostgreSQL` `Redis`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 P2P Secure Share
+A serverless, peer-to-peer file sharing tool with **AES-256-GCM** encryption — no server-side storage, ever.
+
+`P2P` `AES-256-GCM` `Serverless`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Smart Code Hub
+A code assistant built on the **Monaco Editor**, with live collaboration and integrated file sharing for pair-programming on the fly.
+
+`Monaco Editor` `Real-time` `WebSockets`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ SENTINEL AI
+A landing page for a security-focused company, featuring an immersive **3D Spline** background wrapped in a dark, minimal aesthetic.
+
+`Spline 3D` `Landing Page` `Dark UI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📁 Flask Smart File Server
+A lightweight Flask-based file server built for **Termux on Android** and laptops, made for fast file access over a local network.
+
+`Flask` `Termux` `LAN`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 Consistency
+A social productivity platform combining task management, streak tracking, and friend/challenge features with a dark, classical UI — built for groups (like placement prep squads) to stay accountable together.
+
+`React` `Tailwind` `Node.js` `Socket.IO`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -88,7 +168,8 @@
 
 **Deploy & Infra**
 <br/>
-<img src="https://skillicons.dev/icons?i=vercel,render,netlify,docker,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,docker,linux&theme=dark" />
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
 
 <br/><br/>
 
