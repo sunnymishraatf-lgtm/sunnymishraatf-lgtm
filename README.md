@@ -13,10 +13,9 @@
 
 <br/><br/>
 
-### ✨ [Interactive 3D Fiber Field — click to explore →](https://sunnymishraatf-lgtm.github.io/fiber-field/)
-<a href="https://sunnymishraatf-lgtm.github.io/fiber-field/">
-  <img src="https://img.shields.io/badge/Live%20Demo-WebGL%20%2F%20Three.js-8a2be2?style=for-the-badge&logo=three.js&logoColor=white" />
-</a>
+<img src="assets/fiber_field.gif" width="100%" alt="Interactive Fiber Field animation" />
+
+**[→ Try the live interactive version](https://sunnymishraatf-lgtm.github.io/fiber-field/)** (drag to rotate, adjust palette/density/bloom)
 
 </div>
 
