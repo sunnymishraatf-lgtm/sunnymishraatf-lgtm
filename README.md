@@ -13,9 +13,7 @@
 
 <br/><br/>
 
-<img src="assets/fiber_field.gif" width="100%" alt="Interactive Fiber Field animation" />
 
-**[→ Try the live interactive version](https://sunnymishraatf-lgtm.github.io/fiber-field/)** (drag to rotate, adjust palette/density/bloom)
 
 </div>
 
