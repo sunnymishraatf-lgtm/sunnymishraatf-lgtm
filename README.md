@@ -11,6 +11,13 @@
 <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20%7C%20Cybersecurity-4338CA?style=for-the-badge&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-16A34A?style=for-the-badge&labelColor=0f172a" />
 
+<br/><br/>
+
+### ✨ [Interactive 3D Fiber Field — click to explore →](https://sunnymishraatf-lgtm.github.io/fiber-field/)
+<a href="https://sunnymishraatf-lgtm.github.io/fiber-field/">
+  <img src="https://img.shields.io/badge/Live%20Demo-WebGL%20%2F%20Three.js-8a2be2?style=for-the-badge&logo=three.js&logoColor=white" />
+</a>
+
 </div>
 
 <br/>
@@ -88,7 +95,8 @@
 
 **Deploy & Infra**
 <br/>
-<img src="https://skillicons.dev/icons?i=vercel,render,netlify,docker,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,docker,linux&theme=dark" />
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7" height="48" />
 
 <br/><br/>
 
