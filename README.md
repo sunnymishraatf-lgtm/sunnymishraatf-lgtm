@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:4338ca&height=220&section=header&text=Hi%20There,%20I'm%20Sunny%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Security%20Enthusiast&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:4338ca&height=220&section=header&text=Hi%20There,%20I'm%20Sunny%20%F0%9F%91%8B&fontSize=40&fontColor=ffffaf&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Security%20Enthusiast&descAlignY=56&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=650&lines=Building+AI-powered+developer+tools+%F0%9F%A4%96;Full-Stack+Web+Applications+%F0%9F%92%BB;Exploring+Cybersecurity+%26+Cloud+%E2%98%81%EF%B8%8F;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
